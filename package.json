@@ -1,0 +1,25 @@
+{
+  "name": "rest_backend",
+  "version": "1.0.0",
+  "description": "Metthew project backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metthew1128/rest_backend.git"
+  },
+  "keywords": [
+    "rest_backend"
+  ],
+  "author": "Metthew1128",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metthew1128/rest_backend/issues"
+  },
+  "homepage": "https://github.com/Metthew1128/rest_backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
